@@ -1,0 +1,12 @@
+D:\СУБД Кадр\СУБД Кадр\bin\Debug\СУБД Кадр.exe.config
+D:\СУБД Кадр\СУБД Кадр\bin\Debug\СУБД Кадр.exe
+D:\СУБД Кадр\СУБД Кадр\bin\Debug\СУБД Кадр.pdb
+D:\СУБД Кадр\СУБД Кадр\obj\Debug\СУБД Кадр.csproj.AssemblyReference.cache
+D:\СУБД Кадр\СУБД Кадр\obj\Debug\СУБД Кадр.csproj.SuggestedBindingRedirects.cache
+D:\СУБД Кадр\СУБД Кадр\obj\Debug\СУБД_Кадр.Form1.resources
+D:\СУБД Кадр\СУБД Кадр\obj\Debug\СУБД_Кадр.Properties.Resources.resources
+D:\СУБД Кадр\СУБД Кадр\obj\Debug\СУБД Кадр.csproj.GenerateResource.cache
+D:\СУБД Кадр\СУБД Кадр\obj\Debug\СУБД Кадр.csproj.CoreCompileInputs.cache
+D:\СУБД Кадр\СУБД Кадр\obj\Debug\СУБД Кадр.exe
+D:\СУБД Кадр\СУБД Кадр\obj\Debug\СУБД Кадр.pdb
+D:\СУБД Кадр\СУБД Кадр\obj\Debug\СУБД_Кадр.FormADD.resources
